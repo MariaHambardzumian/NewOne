@@ -1,0 +1,16 @@
+.main {
+  height: 500vh;
+  display: flex;
+  background-color: rgba(250, 106, 214, 0.289);
+}
+.left,
+.right {
+  width: 200px;
+  height: 200px;
+  background-color: rgb(85, 152, 155);
+  margin: 50px;
+}
+
+.drop {
+  background-color: #fff;
+}
